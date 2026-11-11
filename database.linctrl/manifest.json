@@ -1,0 +1,7 @@
+{
+  "id": "linctrl.database",
+  "name": "База данных",
+  "summary": "Пользователи, роли и история изменений на выбранном сервере.",
+  "apiVersion": 1,
+  "entry": "Page.qml"
+}
